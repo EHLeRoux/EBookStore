@@ -1,5 +1,5 @@
 package Easy;
-
+//Author: Eduard Le Roux
 import java.awt.Font;
 import java.awt.TextField;
 import java.awt.event.ActionEvent;
