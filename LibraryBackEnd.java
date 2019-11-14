@@ -15,10 +15,6 @@ public class LibraryBackEnd {
 	static String userName = "myuser";
 	
 	
-	/**
-	 * Method that establishes a connection with the database and creates a database and table if one does not already exists
-	 * 
-	 */
 	public static void database () { 
 		
 	}
